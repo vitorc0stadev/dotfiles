@@ -2,6 +2,6 @@
 
 ## IDE Style
 
-- Font "JetBrains Mono"
-- Icons: Catppuccin Perfect Icons
-- Theme: "Ayu Dark Bordered" from "Ayu"
+- Font: **JetBrains Mono**
+- Icons: **Catppuccin Perfect Icons**
+- Theme: **Ayu Dark Bordered** from **Ayu**
