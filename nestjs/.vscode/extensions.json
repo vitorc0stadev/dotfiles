@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "teabyii.ayu",
+    "catppuccin.catppuccin-vsc-icons",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "alexander.error-lens",
+    "dbaeumer.vscode-eslint",
+    "manuelgil.vscode-nestjs-generator",
+    "manuelgil.nestjs-snippets",
+    "christian-kohler.path-intellisense",
+    "rebeccavest.prettier-eslint",
+    "yoavbls.pretty-ts-errors",
+    "prisma.prisma",
+    "rangav.vscode-thunder-client"
+  ]
+}

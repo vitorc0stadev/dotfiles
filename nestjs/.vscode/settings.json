@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "always"
+  },
+  "js/ts.suggestionActions.enabled": true,
+  "explorer.compactFolders": false,
+  "js/ts.updateImportsOnFileMove.enabled": "always"
+}
