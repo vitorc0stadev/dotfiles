@@ -1,5 +1,7 @@
 # dotfiles
 
-## Remember
+## IDE Style
 
-- Install font "JetBrains Mono"
+- Font "JetBrains Mono"
+- Icons: Catppuccin Perfect Icons
+- Theme: "Ayu Dark Bordered" from "Ayu"
