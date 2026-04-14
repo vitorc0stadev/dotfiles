@@ -1,8 +1,3 @@
-# Navegação e Atalhos
-alias dev="pnpm run dev"
-alias build="pnpm run build"
-alias pi="pnpm install"
-
 # Git
 alias gs="git status"
 alias gp="git push"
