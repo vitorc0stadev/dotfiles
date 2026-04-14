@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": { "source.fixAll.eslint": "explicit" },
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "editor.fontFamily": "JetBrains Mono",
+    "workbench.iconTheme": "catppuccin-perfect-latte",
+}
